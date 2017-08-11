@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D3749F281F3DA7E500E2EA93 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3749F271F3DA7E500E2EA93 /* SecondViewController.swift */; };
 		D3D369671F3DA4E000A618BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3D369661F3DA4E000A618BA /* AppDelegate.swift */; };
 		D3D369691F3DA4E000A618BA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3D369681F3DA4E000A618BA /* ViewController.swift */; };
 		D3D3696C1F3DA4E000A618BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3D3696A1F3DA4E000A618BA /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D3749F271F3DA7E500E2EA93 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SecondViewController.swift; path = ../SecondViewController.swift; sourceTree = "<group>"; };
 		D3D369631F3DA4E000A618BA /* github test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "github test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3D369661F3DA4E000A618BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D3D369681F3DA4E000A618BA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				D3D369661F3DA4E000A618BA /* AppDelegate.swift */,
 				D3D369681F3DA4E000A618BA /* ViewController.swift */,
+				D3749F271F3DA7E500E2EA93 /* SecondViewController.swift */,
 				D3D3696A1F3DA4E000A618BA /* Main.storyboard */,
 				D3D3696D1F3DA4E000A618BA /* Assets.xcassets */,
 				D3D3696F1F3DA4E000A618BA /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3749F281F3DA7E500E2EA93 /* SecondViewController.swift in Sources */,
 				D3D369691F3DA4E000A618BA /* ViewController.swift in Sources */,
 				D3D369671F3DA4E000A618BA /* AppDelegate.swift in Sources */,
 			);
@@ -301,6 +305,7 @@
 				D3D369771F3DA4E000A618BA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
